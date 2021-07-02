@@ -3,7 +3,7 @@ C++ Embedded system application with Blynk mobile App.
 
 ### Features remote controlled button to start or stop the system
 
-![Application Demo](/App.png?raw=true "Application Demo")
+![Application Demo](/App.jpg?raw=true "Application Demo")
 
 ## Getting Started
 
@@ -64,7 +64,7 @@ http://arduino.esp8266.com/stable/package_esp8266c...
 Restart the Arduino IDE after that.
 Now after restarting the Arduino IDE , go to Tools->Boards and select Node MCU board , mine was version 0.9
 ```
-![Application Demo](/setupIDE.png?raw=true "Application Demo")
+![Application Demo](/setupIDE.jpg?raw=true "Application Demo")
 
 
 Setting up Blynk
@@ -81,12 +81,12 @@ Setting up Blynk
 6. Then label the Button as ON and OFF in the settings
 Note that since Blynk is free only to an extend, you have to choose your widgets wisely
 ```
-![Application Demo](/setupBlynk.png?raw=true "Application Demo")
+![Application Demo](/setupBlynk.jpg?raw=true "Application Demo")
 
 
 Circuit Diagram
 
-![Application Demo](/Diagram.png?raw=true "Application Demo")
+![Application Demo](/Diagram.jpg?raw=true "Application Demo")
 
 
 Uploading the Code
@@ -102,7 +102,7 @@ Uploading the Code
    Blynk.begin(auth, "ssid", "pass"); // Enter your Wifi SSID and password, both inside the double quotation
    Finally Save the file and Press Upload
 ```
-![Application Demo](/Upload.png?raw=true "Application Demo")
+![Application Demo](/Upload.jpg?raw=true "Application Demo")
 
 
 Then run
@@ -117,4 +117,4 @@ Then run
    Now that you have got the basics , you can try some cool stuffs with this awesome board !!
    Have fun exploring this board :)
 ```
-![Application Demo](/Auto-lights.mp4?raw=true "Application Demo")
+![Application Demo](/Auto-Lights.mp4?raw=true "Application Demo")
