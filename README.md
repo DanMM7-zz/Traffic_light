@@ -102,7 +102,7 @@ Uploading the Code
    Blynk.begin(auth, "ssid", "pass"); // Enter your Wifi SSID and password, both inside the double quotation
    Finally Save the file and Press Upload
 ```
-![Application Demo](/Upload.jpg?raw=true "Application Demo")
+![Application Demo](/Upload.png?raw=true "Application Demo")
 
 
 Then run
