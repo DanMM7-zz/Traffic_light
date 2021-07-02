@@ -1,5 +1,5 @@
 # Traffic_light
-C++ Embedded system application with Blynk mobile App.
+
 
 ### Features remote controlled button to start or stop the system
 
@@ -117,4 +117,4 @@ Then run
    Now that you have got the basics , you can try some cool stuffs with this awesome board !!
    Have fun exploring this board :)
 ```
-![Application Demo](/Auto-Lights.mp4?raw=true "Application Demo")
+![Application Demo](/Auto-Lights.gif?raw=true "Application Demo")
