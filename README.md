@@ -1,4 +1,8 @@
 # Traffic_light
+### Features a Main Menu and Scoreboard
+
+![Game Play Image](/GamePlay.gif?raw=true "Game Play")
+
 # Widgets
 
 Widgets are pre-designed pieces of Graphic User Interface. Each widget performs a specific input/output function when communicating with your hardware or end-user.
