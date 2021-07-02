@@ -1,9 +1,9 @@
 # Traffic_light
-Python desktop application for password cracking.
+C++ Embedded system application with Blynk mobile App.
 
-### Featur
+### Features remote controlled button to start or stop the system
 
-![Application Demo](/Auto-lights.mp4?raw=true "Application Demo")
+![Application Demo](/App.png?raw=true "Application Demo")
 
 ## Getting Started
 
@@ -43,6 +43,7 @@ Clone this repository by running
 ```
 git clone https://github.com/DanMM7/Cobra.git
 ```
+
 Setting up Blynk with Arduino IDE
 
 ```
@@ -63,7 +64,7 @@ http://arduino.esp8266.com/stable/package_esp8266c...
 Restart the Arduino IDE after that.
 Now after restarting the Arduino IDE , go to Tools->Boards and select Node MCU board , mine was version 0.9
 ```
-![Application Demo](/SetupIDE.png?raw=true "Application Demo")
+![Application Demo](/setupIDE.png?raw=true "Application Demo")
 
 
 Setting up Blynk
@@ -80,7 +81,7 @@ Setting up Blynk
 6. Then label the Button as ON and OFF in the settings
 Note that since Blynk is free only to an extend, you have to choose your widgets wisely
 ```
-![Application Demo](/SetupBlynk.png?raw=true "Application Demo")
+![Application Demo](/setupBlynk.png?raw=true "Application Demo")
 
 
 Circuit Diagram
@@ -115,3 +116,5 @@ Then run
 6. Then Alas!! Press the Button and you would see the LED Turn ON!!!:)
    Now that you have got the basics , you can try some cool stuffs with this awesome board !!
    Have fun exploring this board :)
+```
+![Application Demo](/Auto-lights.mp4?raw=true "Application Demo")
